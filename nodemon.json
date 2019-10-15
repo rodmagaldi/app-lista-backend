@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "rodrigomagaldi",
+        "MONGO_PASSWORD": "rodrigomagaldi",
+        "MONGO_DB": "lista-de-compras"
+    }
+}
